@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "research":"experiments:graph"
+
+  },
+  "env": ".env"
+}
